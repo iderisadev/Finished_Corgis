@@ -1,2 +1,2 @@
-# Finished_Corgis
-Finished project
+# CORGIS-data-website-Indice-des--tats-fragiles
+The home page will include some basic information about the site and what it's about. There will be some images and I will have a navbar and I may add some buttons for random things. There will be a page that shows the user the fragility, in detail, of a nation during a certain year. There will be a page which will show the most stable/unstable and most whatevers countries during a certain year. And there will be a page with graphs showing the trend of a certain country over time or a comparison of 2 or more countries.
